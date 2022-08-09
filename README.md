@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP and Wordpress programming
 - 🌱 I’m currently learning Symfony and Magento
 - 💞️ I'm looking for a job as a PHP/Wordpress Developer 
-- 📫 How to reach me ...
+- 📫 How to reach me kontakt@aleksandrajarczyk.com
 
 <!---
 olajarczyk/olajarczyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
