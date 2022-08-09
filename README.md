@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ALeksandra Jarczyk
+- 👋 Hi, I’m Aleksandra Jarczyk
 - 👀 I’m interested in PHP and Wordpress programming
 - 🌱 I’m currently learning Symfony and Magento
 - 💞️ I'm looking for a job as a PHP/Wordpress Developer 
