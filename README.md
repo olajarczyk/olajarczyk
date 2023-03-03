@@ -14,7 +14,7 @@ I'm a PHP/Wordpress developer based in Cracow, specializing in building websites
 
 ### ⚡ More about me 
 - 👀 I’m interested in PHP and Wordpress programming
-- 🌱 I’m currently learning Symfony 
+- 🌱 I’m currently learning Laravel 
 - 💞️ I'm looking for a job as a PHP/Wordpress Developer 
 - 📫 How to reach me kontakt@aleksandrajarczyk.com
 
